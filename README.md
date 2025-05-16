@@ -1,6 +1,6 @@
 # Lost & Found Map App 📱
 
-![App Screenshot](image8.png)
+![App Screenshot](Home-Screen.png)
 
 A comprehensive Android application for managing lost and found items, featuring location-based services and interactive maps to help users reconnect with their lost items.
 
@@ -18,11 +18,11 @@ A comprehensive Android application for managing lost and found items, featuring
 
 | Main Screen | Create Advert | Items List | Item Detail |
 |-------------|---------------|------------|-------------|
-| ![Main](image8.png) | ![Create](image7.png) | ![List](image4.png) | ![Detail](image3.png) |
+| ![Main](Home-Screen.png) | ![Create](create-new-advert.png) | ![List](lost-and-found-items.png) | ![Detail](item_details.png) |
 
 | Map View | Location Selection | Item on Map |
 |----------|-------------------|-------------|
-| ![Map](image2.png) | ![Location](image6.png) | ![Item Map](image1.png) |
+| ![Map](item-on-map.png) | ![Location](Autofill-map.png) | ![Item Map](show-all-lostandfounditems-onmap.png) |
 
 ## Technical Implementation ⚙️
 
